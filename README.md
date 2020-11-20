@@ -1,4 +1,3 @@
 # JS_todolist
 
-## Live Link
-https://manju-todolist.netlify.app
+# Live Link   https://manju-todolist.netlify.app
